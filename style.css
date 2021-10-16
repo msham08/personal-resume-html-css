@@ -38,6 +38,13 @@ html,body{
     font-size: 19px;
     letter-spacing: 2px;
 }
+#nav #nleft i{
+    position: absolute;
+    margin-left: 128px;
+    margin-top: -20px;
+    display: none;
+    
+}
 #circle{
     
    /* background-color: blanchedalmond;  */
