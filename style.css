@@ -84,7 +84,7 @@ margin-left: -17%;
     min-height: 100vh;
     width: 100%;
     background-color: rgb(212, 204, 204);
-   overflow: hidden;
+   overflow: hidd0en;
 }
 #txt2{
     position: absolute;
@@ -342,7 +342,7 @@ margin-left: 94%;
       #nav #nleft i{
           /* position: static; */
          margin-left: 291px;
-         margin-top: -26px;
+         margin-top: -29px;
          display: initial;
       }
         #down #txt2{
